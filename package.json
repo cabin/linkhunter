@@ -49,7 +49,7 @@
   "dependencies": {
     "animejs": "^2.0.2",
     "babel-plugin-transform-object-rest-spread": "^6.23.0",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.21",
     "mixpanel-browser": "^2.11.1",
     "moment": "^2.18.1",
     "vue": "^2.3.3",
